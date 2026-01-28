@@ -36,5 +36,8 @@ bash run_detection.sh
 python detect_eval.py
 ```
 
+## Acknowledgments
+This code is based upon the repositories [Understanding and Mitigating Memorization in Generative Models via Sharpness of Probability Landscapes] (https://github.com/Dongjae0324/sharpness_memorization_diffusion) and [Detecting, Explaining, and Mitigating Memorization in Diffusion Models](https://github.com/YuxinWenRick/diffusion_memorization). The memorized and non memorized prompt data is taken from [here](https://github.com/Dongjae0324/sharpness_memorization_diffusion).
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
