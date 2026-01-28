@@ -1,5 +1,4 @@
 <p align="center">
-  
 # [ICLR '26] Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability
 Rohan Asthana, Vasileios Belagiannis
 </p>
