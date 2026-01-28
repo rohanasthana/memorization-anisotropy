@@ -3,6 +3,7 @@
 Rohan Asthana, Vasileios Belagiannis
 </p>
 
+![Visual Results](visual_main.jpg)
 
 This repository contains the official code for the paper titled "Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability".
 
