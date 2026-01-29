@@ -3,8 +3,9 @@
 Rohan Asthana, Vasileios Belagiannis
 </p>
 
-[Project Page](https://rohanasthana.github.io/memorization_anisotropy/) [Arxiv](https://arxiv.org/abs/2601.20642)
-
+<p align="center">
+<a href="https://rohanasthana.github.io/memorization_anisotropy/">Project Page</a> | <a href="https://arxiv.org/abs/2601.20642">Arxiv</a>
+</p>
 
 <p align="center">
   <img src="visual_main.jpg" width="500">
