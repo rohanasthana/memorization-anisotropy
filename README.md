@@ -13,7 +13,7 @@ Rohan Asthana, Vasileios Belagiannis
 </p>
 
 <p align="center">
-  <img src="alignment_full.jpg" width="500">
+  <img src="visual_main.jpg" width="500">
 </p>
 
 
