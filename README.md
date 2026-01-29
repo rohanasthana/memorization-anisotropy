@@ -4,12 +4,18 @@ Rohan Asthana, Vasileios Belagiannis
 </p>
 
 <p align="center">
-<a href="https://rohanasthana.github.io/memorization_anisotropy/">Project Page</a> | <a href="https://arxiv.org/abs/2601.20642">Arxiv</a>
+  <a href="https://rohanasthana.github.io/memorization_anisotropy/">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page">
+  </a>
+  <a href="https://arxiv.org/abs/2601.20642">
+    <img src="https://img.shields.io/badge/arXiv-2601.20642-b31b1b.svg?style=for-the-badge" alt="arXiv">
+  </a>
 </p>
 
 <p align="center">
   <img src="visual_main.jpg" width="500">
 </p>
+
 
 This repository contains the official code for the ICLR '26 paper "Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability".
 
